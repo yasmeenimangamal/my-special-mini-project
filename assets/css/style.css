@@ -1,0 +1,27 @@
+::root{
+
+}
+
+*{
+
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    color:yellow;
+    background-color: darkgreen;
+}
+
+.syntax{
+
+}
+
+.box{
+    border-style: solid;
+    border-width: auto;
+    padding: 10px;
+    margin: 20px;
+}
